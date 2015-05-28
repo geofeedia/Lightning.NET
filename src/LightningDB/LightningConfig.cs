@@ -18,7 +18,7 @@ namespace LightningDB
             /// <summary>
             /// Default MapSize for new environments
             /// </summary>
-            public const long LibDefaultMapSize = 1048576;
+            public const long LibDefaultMapSize = 10485760;
 
             /// <summary>
             /// Default MaxReaders for new environments
@@ -26,7 +26,7 @@ namespace LightningDB
             public const int LibDefaultMaxReaders = 126;
 
             /// <summary>
-            /// Default MaxDatabases for new envitonments
+            /// Default MaxDatabases for new envrionments
             /// </summary>
             public const int LibDefaultMaxDatabases = 0;
 
